@@ -7,8 +7,19 @@ This means current close is 0-10% above the 52-week low OR 0-10% below the 52-we
 
 ## Setup
 
-1. Create and activate a virtual environment.
-2. Install dependencies:
+1. Create a virtual environment:
+
+```bash
+python3 -m venv .venv
+```
+
+2. Activate it (macOS/Linux):
+
+```bash
+source .venv/bin/activate
+```
+
+3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
