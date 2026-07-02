@@ -1,6 +1,6 @@
 # Stock Screener (Yahoo Finance)
 
-This project screens S&P 500 stocks using Yahoo Finance data and writes two CSV outputs.
+    This project screens S&P 500 stocks using Yahoo Finance data and writes two CSV outputs.
 
 For screener matches output, a stock is included when match_rule is not no_match.
 This means current close is 0-10% above the 52-week low OR 0-10% below the 52-week high.
