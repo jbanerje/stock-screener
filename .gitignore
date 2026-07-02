@@ -18,5 +18,5 @@ env/
 .DS_Store
 
 # Runtime outputs
-output/*.csv
+/output/
 *.log
